@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+/*Poster*/
+.poster_avatar_img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 999em;
+  border: 3px double #C0C0C0;
+}
+.poster_avatar_text {
+  font-size: 10px;
+}
+
+
+/*Post*/
+.post_postitem_avatar {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 999em;
+}
+.post_postitem_avatar_text {
+  margin-left: 10px;
+  font-weight: bolder;
+}
+.post_postitem_photo {
+  width: 500px;
+}
+
+
